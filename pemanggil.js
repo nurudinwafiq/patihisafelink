@@ -26,7 +26,10 @@ if(x=="1"){xxx="/2017/12/the-importance-of-seo-in-internet.html"}
 if(x=="2"){xxx="/2017/12/kawasaki-motorcycles.html"}
 if(x=="3"){xxx="/2017/12/tools-for-adsense.html"}
 if(x=="4"){xxx="/2017/12/stay-legal-avoiding-insurance-fraud.html"}
-if(x=="5"){xxx="/2017/12/purchasing-brand-new-sports-car.html"}a_to_ve[i].href="https://patihisafelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/12/purchasing-brand-new-sports-car.html"}
+if(x=="5"){xxx="/2017/12/should-you-buy-motor-home-from-auction.html"}
+if(x=="5"){xxx="/2017/12/hamsters-fuzzy-balls-of-fun.html"}
+a_to_ve[i].href="https://patihisafelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
