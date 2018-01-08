@@ -33,7 +33,7 @@ if(x=="9"){xxx="/2017/12/tips-to-help-you-save-money-at-grocery.html"}
 if(x=="10"){xxx="/2017/12/tips-for-successful-affiliate-marketing.html"}
 if(x=="11"){xxx="/2017/12/tips-for-blog-marketing.html"}
 if(x=="12"){xxx="/2018/01/getting-started-with-adsense.html"}
-if(x=="13"){xxx="/2018/01/tips-on-buying-hypoallergenic-dog.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="13"){xxx="/2018/01/tips-on-buying-hypoallergenic-dog.html"}a_to_ve[i].href="https://patihisafelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
